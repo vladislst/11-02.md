@@ -15,8 +15,8 @@
 
 ### Задание 4
 
-1.![Image alt](https://github.com/vladislst/hw-03.md/raw/main/img/redis_cli.jpg)
+1.![Image alt](https://github.com/vladislst/11-02.md/raw/main/img/redis_cli.jpg)
 
 ### Задание 5
 
-1.![Image alt](https://github.com/vladislst/hw-03.md/raw/main/img/redis_cli.jpg)
+1.![Image alt](https://github.com/vladislst/11-02.md/raw/main/img/redis_cli.jpg)
